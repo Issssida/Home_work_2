@@ -1,0 +1,15 @@
+/Users/issssida/Home_Work_2/Example3/bin/Debug/net7.0/Example3
+/Users/issssida/Home_Work_2/Example3/bin/Debug/net7.0/Example3.deps.json
+/Users/issssida/Home_Work_2/Example3/bin/Debug/net7.0/Example3.runtimeconfig.json
+/Users/issssida/Home_Work_2/Example3/bin/Debug/net7.0/Example3.dll
+/Users/issssida/Home_Work_2/Example3/bin/Debug/net7.0/Example3.pdb
+/Users/issssida/Home_Work_2/Example3/obj/Debug/net7.0/Example3.csproj.AssemblyReference.cache
+/Users/issssida/Home_Work_2/Example3/obj/Debug/net7.0/Example3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/issssida/Home_Work_2/Example3/obj/Debug/net7.0/Example3.AssemblyInfoInputs.cache
+/Users/issssida/Home_Work_2/Example3/obj/Debug/net7.0/Example3.AssemblyInfo.cs
+/Users/issssida/Home_Work_2/Example3/obj/Debug/net7.0/Example3.csproj.CoreCompileInputs.cache
+/Users/issssida/Home_Work_2/Example3/obj/Debug/net7.0/Example3.dll
+/Users/issssida/Home_Work_2/Example3/obj/Debug/net7.0/refint/Example3.dll
+/Users/issssida/Home_Work_2/Example3/obj/Debug/net7.0/Example3.pdb
+/Users/issssida/Home_Work_2/Example3/obj/Debug/net7.0/Example3.genruntimeconfig.cache
+/Users/issssida/Home_Work_2/Example3/obj/Debug/net7.0/ref/Example3.dll
